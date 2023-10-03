@@ -1,3 +1,3 @@
-<h1 align="center">Hi there, I'm Batyr</h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilbtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilbtr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilbtr)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=LilBtr&theme=dark)](https://github.com/LilBtr/leetcode-stats)
